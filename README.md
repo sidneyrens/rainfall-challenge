@@ -85,5 +85,5 @@ The basins, labeled with A’s, B’s, and C’s, are:
 - Entries are due by 6:00 PM Sunday (I know, weird - I will look everything over Sunday eve)
 - Post your solution to #coding-challenge Slack Channel as a GitHub repo, CodeSnippet, JSbin, Repl... Whatever works for you
 - *Winner will be selected by the readability and cleanliness of their code*, I know this is a twist but I am interested in seeing what people come up with. Can you make your solution shorter? I will be 'grading' (I am a JavaScript gal so if you're working in a different langugage this may mean comments!)
-- Winner will be announced on Monday 3/29
 - Have fun! Work together! How can we help each other improve?!
+- Winner will be announced on Monday 3/29

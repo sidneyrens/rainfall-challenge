@@ -16,7 +16,7 @@ Assume the elevation maps are square. Input will begin with a line with one inte
 
 Your code should output a space-separated list of the basin sizes, in descending order. (Trailing spaces are ignored.)
 
-The inputs to for testing are the following: 
+The inputs for testing are the following: 
 
 ```
 input1 = '3 1 5 2 2 4 7 3 6 9'
